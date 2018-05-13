@@ -1,0 +1,2 @@
+CFLAGS=-O0 -pipe -g
+R_XTRA_CPPFLAGS =  -I$(R_INCLUDE_DIR) 
